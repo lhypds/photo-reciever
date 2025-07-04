@@ -3,7 +3,7 @@ Photo Reciever
 ==============
 
 Receiver written with Python. (Only run with Python from 3.9)
-Sender written with Kotlin. (Refer `sender.kt`)
+Sender example (Kotlin) refer `sender.kt.example`.
 
 
 Algorithm
